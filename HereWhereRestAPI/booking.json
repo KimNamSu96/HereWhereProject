@@ -1,0 +1,146 @@
+[
+    {
+        "hotel": "머큐어 앰배서더 서울 홍대",
+        "address": "144, Yanghwa-ro, Mapo-gu",
+        "lat": 37.555135,
+        "lng": 126.922511,
+        "review": 9.0,
+        "price": "236,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/260383242.jpg?k=1bff16529cf65e0c7baff40f71999f5350f103ac7c6b3fd6f7093bdb035cf469&o="
+    },
+    {
+        "hotel": "보코서울강남",
+        "address": "144 Dosan daero (Nonhyun dong)",
+        "lat": 37.517879854,
+        "lng": 127.02465462,
+        "review": 8.9,
+        "price": "284,900원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/351045313.jpg?k=9d36985a1fa797c5f7e4ce2b745d2292173e171a7f70d4b73499b56525c0ae21&o="
+    },
+    {
+        "hotel": "RYSE, Autograph Collection, Seoul",
+        "address": "130, Yanghwa-ro, Mapo-gu",
+        "lat": 37.554058,
+        "lng": 126.921033,
+        "review": 8.9,
+        "price": "340,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/426598388.jpg?k=9533aa15e6f40040cc64108c9d42b0c8953764de4990f8fcb83610a7495cbcc4&o="
+    },
+    {
+        "hotel": "코트야드 바이 메리어트 서울 보타닉파크",
+        "address": "10, Magokjungang 12-ro, Gangseo-gu",
+        "lat": 37.567006,
+        "lng": 126.828967,
+        "review": 8.8,
+        "price": "210,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/447015135.jpg?k=1f011ef8e6df2ffc5a62156e408e1cf8a6cacaaef1cdd30b68f0595718fc7b3b&o="
+    },
+    {
+        "hotel": "AC 호텔 바이 메리어트 서울 강남",
+        "address": "10 Teheran-ro 25 Gil, Gangnam-Gu",
+        "lat": 37.5014,
+        "lng": 127.03545,
+        "review": 8.7,
+        "price": "350,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/451126828.jpg?k=f08a69133a77c2c38c9675d355c13a52d0ca7ced50ff95615aa359710437f0fe&o="
+    },
+    {
+        "hotel": "포포인츠 바이 쉐라톤 조선, 서울 명동",
+        "address": "36, Samil-daero 10-gil, Jung-gu",
+        "lat": 37.565614,
+        "lng": 126.98933,
+        "review": 8.6,
+        "price": "120,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/439519069.jpg?k=24b179d31b3b68ded7aa8427541a866eb6d9bbc00cd88e949a5b59a26819cde8&o="
+    },
+    {
+        "hotel": "코트야드 메리어트 서울 남대문",
+        "address": "9, Namdaemun-ro, Jung-gu",
+        "lat": 37.561153,
+        "lng": 126.976972,
+        "review": 8.6,
+        "price": "255,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/515431322.jpg?k=ee5b76c4002c2ad6730ee534b09e1d3f2347a16c7e60800ad4fd166a2ae2eab9&o="
+    },
+    {
+        "hotel": "홀리데이 인 익스프레스 서울 홍대",
+        "address": "188, Yanghwa-ro, Mapo-gu, ",
+        "lat": 37.557498,
+        "lng": 126.926772,
+        "review": 8.6,
+        "price": "207,900원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/246338503.jpg?k=88c070045304c5262e697a83fd313cc5e3b91c5d3cc7374dd6fc2620bdac5e1c&o="
+    },
+    {
+        "hotel": "포포인츠 바이 쉐라톤 서울 구로",
+        "address": "72, Digital-ro 32-gil, Guro-gu",
+        "lat": 37.4829635665719,
+        "lng": 126.89876049757,
+        "review": 8.4,
+        "price": "110,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/475218326.jpg?k=c515c146f4f0f8d61866d78325855b32072e4247f024b49e077ba371094787fa&o="
+    },
+    {
+        "hotel": "그래비티 서울 판교 오토그래프 컬렉션 메리어트 인터내셔널",
+        "address": "2, Pangyoyeok-ro 146beon-gil, Bundang-gu",
+        "lat": 37.393626,
+        "lng": 127.109994,
+        "review": 8.4,
+        "price": "210,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/426601317.jpg?k=a898ab9740bdfc0e7ea19906eb7a1819f489720da92950111e973dcbac938a1b&o="
+    },
+    {
+        "hotel": "포포인츠 바이 쉐라톤 조선, 서울역",
+        "address": "366, Hangang-daero, Yongsan-gu",
+        "lat": 37.551022974292,
+        "lng": 126.97272375226,
+        "review": 8.3,
+        "price": "240,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/523760584.jpg?k=ee3172a1a26ac49c958f317cd96c81c99f634c3fc36bbb410ddd240aba676488&o="
+    },
+    {
+        "hotel": "코트야드 메리어트 서울 타임스퀘어",
+        "address": "15, Yeongjung-ro, Yeongdeungpo-gu",
+        "lat": 37.5176722385238,
+        "lng": 126.904186606407,
+        "review": 8.3,
+        "price": "210,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/430807867.jpg?k=f22bd347fa0e3a8e458917f1a5ebea09f05d6abf41bc4ed7fbee03567e22045c&o="
+    },
+    {
+        "hotel": "코트야드 바이 메리어트 수원 ",
+        "address": "320, Gwanggyohosugongwon-ro, Yeongtong-gu",
+        "lat": 37.285056,
+        "lng": 127.057861,
+        "review": 8.2,
+        "price": "250,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/515364950.jpg?k=1169be796c397aded14d1affbe2df2d5260d849c381c20bce571b1775655c0b7&o="
+    },
+    {
+        "hotel": "코트야드 바이 메리어트 서울 판교",
+        "address": "192-12, Pangyoyeok-ro, Bundang-gu",
+        "lat": 37.397547945482,
+        "lng": 127.110566496849,
+        "review": 8.1,
+        "price": "280,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/461632617.jpg?k=94e13091560280b63d1cbf6d6955a5174ed6f7ac68332602f64433d672e33ba6&o="
+    },
+    {
+        "hotel": "이비스 스타일 앰배서더 서울 용산",
+        "address": "95, Cheongpa-ro 20-gil, Yongsan-gu",
+        "lat": 37.532285,
+        "lng": 126.961738,
+        "review": 7.9,
+        "price": "145,000원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/211739143.jpg?k=7a72f116f210272beb3cb4b0ade5c459f47884e59a0290949ba6039e78ad6ef0&o="
+    },
+    {
+        "hotel": "코코모 호텔",
+        "address": "20, Saemal-ro, Guro-gu ",
+        "lat": 37.5019765,
+        "lng": 126.8833649,
+        "review": 5.0,
+        "price": "72,730원",
+        "img_urls": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/517552037.jpg?k=e0fd64f20fbb66cb8b7250291223b8f1de8783c59bc0e02ab6ca823dd0a45eb3&o="
+    }
+]

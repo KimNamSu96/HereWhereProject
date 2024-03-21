@@ -23,3 +23,4 @@ pnpm-debug.log*
 /frontend/node_modules
 /frontend/.env
 /target
+HereWhereRestAPI/.env
